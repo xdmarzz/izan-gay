@@ -1,0 +1,76 @@
+[15:27:08] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[15:27:08] [INIT] Loaded plugins:
+[15:27:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:27:08] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[15:27:09] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[15:27:09] [INFO] Loaded script startup_scripts:example.js in 0.069 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.019 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/wall_run_up.js in 0.002 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/wall_run_down.js in 0.001 s
+[15:27:09] [INFO] addonpack_alienevo:kubejs_scripts/wall_run.js#1: Loaded Java class 'net.minecraft.world.level.ClipContext'
+[15:27:09] [INFO] addonpack_alienevo:kubejs_scripts/wall_run.js#51: Loaded Java class 'net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket'
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/wall_run.js in 0.014 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/wall_climb_small.js in 0.012 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/wall_climb_move_condition.js in 0.002 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/wall_climb_condition.js in 0.0 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/wall_climb.js in 0.008 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/transform.js in 0.014 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/store_armor.js in 0.006 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/stat_ability.js in 0.003 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/sounds.js in 0.0 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/secondary_uniform.js in 0.0 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/screen_shake.js in 0.001 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change_skill.js in 0.026 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.001 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pyro_surf.js in 0.0 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_cycle.js in 0.004 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/omnitrix_timer.js in 0.019 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/omnitrix_cycle_animation.js in 0.003 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/omnitrix_cycle.js in 0.006 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/obtain_core_colors.js in 0.003 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/motion_water.js in 0.001 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/motion_dash.js in 0.003 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/motion.js in 0.001 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/main_uniform.js in 0.0 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level.js in 0.001 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/is_alien.js in 0.001 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/infinity.js in 0.005 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/ice_layer.js in 0.002 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hunger_fix.js in 0.0 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/goo_layer.js in 0.008 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/glow_crystals.js in 0.01 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/glow_color.js in 0.001 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/galvan_pod.js in 0.0 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/explosion.js in 0.001 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/entity_damage.js in 0.002 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/draganoid.js in 0.002 s
+[15:27:09] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/directional_damage.js in 0.004 s
+[15:27:09] [INFO] addonpack_alienevo:kubejs_scripts/diamond_spikes.js#1: Loaded Java class 'net.minecraft.world.level.block.AmethystClusterBlock'
+[15:27:09] [INFO] addonpack_alienevo:kubejs_scripts/diamond_spikes.js#2: Loaded Java class 'net.minecraft.world.level.block.state.BlockBehaviour$Properties'
+[15:27:09] [INFO] addonpack_alienevo:kubejs_scripts/diamond_spikes.js#3: Loaded Java class 'net.minecraft.world.level.block.SoundType'
+[15:27:09] [INFO] addonpack_alienevo:kubejs_scripts/diamond_spikes.js#4: Loaded Java class 'net.minecraft.world.item.BlockItem'
+[15:27:10] [INFO] addonpack_alienevo:kubejs_scripts/diamond_spikes.js#5: Loaded Java class 'net.minecraft.world.item.Item$Properties'
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/diamond_spikes.js in 0.03 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/diamond_block.js in 0.001 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/detransform.js in 0.002 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/decouple.js in 0.017 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/damage_effect.js in 0.005 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/cycle_sounds.js in 0.001 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/core_removal.js in 0.008 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/color_modules.js in 0.002 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/codes.js in 0.003 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/charge_leap.js in 0.001 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/blocks.js in 0.001 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/behind.js in 0.001 s
+[15:27:10] [INFO] addonpack_alienevo:kubejs_scripts/astro_powers.js#1: Loaded Java class 'net.minecraft.world.phys.Vec3'
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/astro_powers.js in 0.008 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_codex.js in 0.0 s
+[15:27:10] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alienevo_color_condition.js in 0.001 s
+[15:27:10] [INFO] Loaded script addonpack_afomni:kubejs_scripts/new_ice_block.js in 0.0 s
+[15:27:10] [INFO] Loaded script addonpack_afomni:kubejs_scripts/leap_vax.js in 0.001 s
+[15:27:10] [INFO] Loaded script addonpack_afomni:kubejs_scripts/is_mainhand.js in 0.0 s
+[15:27:10] [INFO] Loaded script addonpack_afomni:kubejs_scripts/freezing_effect.js in 0.001 s
+[15:27:10] [INFO] Loaded script addonpack_afomni:kubejs_scripts/chroma_leap.js in 0.0 s
+[15:27:10] [INFO] Loaded script addonpack_afomni:kubejs_scripts/aoe_damage.js in 0.001 s
+[15:27:10] [INFO] Loaded 61/61 KubeJS startup scripts in 0.919 s with 0 errors and 0 warnings
+[15:27:13] [INFO] addonpack_alienevo:kubejs_scripts/glow_crystals.js#3: Loaded Java class 'dev.latvian.mods.kubejs.item.custom.BasicItemJS$Builder'

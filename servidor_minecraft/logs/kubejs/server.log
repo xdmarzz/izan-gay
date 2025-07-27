@@ -1,0 +1,26 @@
+[15:27:16] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[15:27:16] [INIT] Loaded plugins:
+[15:27:16] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:27:16] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[15:27:16] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[15:27:16] [INFO] Loaded script server_scripts:example.js in 0.002 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.006 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.003 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.057 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.003 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.007 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.0 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nbt_omnitrix.js in 0.0 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.001 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.001 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/flammable_block.js in 0.0 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.003 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.001 s
+[15:27:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_death.js in 0.0 s
+[15:27:16] [INFO] Loaded 16/16 KubeJS server scripts in 0.117 s with 0 errors and 0 warnings
+[15:27:16] [INFO] Scripts loaded
+[15:27:17] [INFO] [minecraft:block] Found 350 tags, added 9 objects, removed 0 objects
+[15:27:17] [INFO] [minecraft:item] Found 345 tags, added 3 objects, removed 0 objects
+[15:27:27] [INFO] Server resource reload complete!
