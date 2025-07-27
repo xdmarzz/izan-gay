@@ -796,3 +796,37 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Jul2025 13:31:39.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdmarzz has made the advancement [Cover Me with Diamonds]
 [27Jul2025 13:31:42.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IzanMMGT2007 has made the advancement [Cover Me with Diamonds]
 [27Jul2025 13:31:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IzanMMGT2007 has made the advancement [Spooky Scary Skeleton]
+[27Jul2025 13:32:21.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdmarzz has made the advancement [Withering Heights]
+[27Jul2025 13:32:21.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IzanMMGT2007 has made the advancement [Withering Heights]
+[27Jul2025 13:32:33.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 13:32:33.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 13:32:39.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdmarzz has made the advancement [Take Aim]
+[27Jul2025 13:33:09.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IzanMMGT2007 has made the advancement [Take Aim]
+[27Jul2025 13:36:49.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdmarzz has made the advancement [Ol' Betsy]
+[27Jul2025 13:37:16.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IzanMMGT2007 has made the advancement [Sneak 100]
+[27Jul2025 13:37:23.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdmarzz was killed
+[27Jul2025 13:37:23.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IzanMMGT2007 was killed
+[27Jul2025 13:37:23.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 429 entities
+[27Jul2025 13:37:33.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 13:37:33.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 13:38:03.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdmarzz has made the advancement [Ice Bucket Challenge]
+[27Jul2025 13:38:22.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IzanMMGT2007 moved too quickly! -11.818869704480246,-1.117269270084222,10.378104523764584
+[27Jul2025 13:38:32.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdmarzz has made the advancement [Stone Age]
+[27Jul2025 13:39:25.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IzanMMGT2007 lost connection: Disconnected
+[27Jul2025 13:39:25.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IzanMMGT2007 left the game
+[27Jul2025 13:39:41.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xdmarzz lost connection: Disconnected
+[27Jul2025 13:39:41.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdmarzz left the game
+[27Jul2025 13:40:00.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Jul2025 13:40:00.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jul2025 13:40:00.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jul2025 13:40:00.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jul2025 13:40:00.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Jul2025 13:40:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Jul2025 13:40:02.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Jul2025 13:40:02.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 13:40:02.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 13:40:02.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Jul2025 13:40:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jul2025 13:40:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jul2025 13:40:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jul2025 13:40:02.050] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
